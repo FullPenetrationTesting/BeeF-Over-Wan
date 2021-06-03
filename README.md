@@ -2,12 +2,12 @@
 All bug and error fixed and also ported to termux :)
 executables changed into latest python3
 
-# BeeF-Over-Wan
-## Screenshots
-![1](https://user-images.githubusercontent.com/33988926/37250457-1b013644-2523-11      >
-![2](https://user-images.githubusercontent.com/33988926/37250458-1b722e3a-2523-11      >
-![3](https://user-images.githubusercontent.com/33988926/37250459-1ba6ad04-2523-11      >
-![4](https://user-images.githubusercontent.com/33988926/37250460-1bdb4e88-2523-11      >
+
+
+
+
+
+
 
 
 ## Instructions :

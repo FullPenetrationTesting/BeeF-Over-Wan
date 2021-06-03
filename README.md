@@ -42,7 +42,7 @@ Just Enter your links in the Script ,Script will do neccessary changes required 
 - NGROK [If you want to do this without Port Forwarding]
 
 ## â­ Getting Started
-1. ```git clone https://github.com/stormshadow07/BeeF-Over-Wan.git```
+1. ```git clone https://github.com/FullPenetrationTesting/BeeF-Over-Wan ```
 2. ```cd BeeF-Over-Wan```
 3. ```pip3 install termcolor```
 4. ```chmod +x BeeFOverWan.py && python3 BeeFOverWan.py`
